@@ -1,0 +1,7 @@
+{
+  "name": "Aventura Gramatical: El Misterio del Se",
+  "description": "A Spanish grammar quest using Gemini and Maps to master 'Se Impersonal' (Signs) and 'Se Accidental' (Mishaps).",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
